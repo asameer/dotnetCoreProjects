@@ -1,0 +1,10 @@
+D:\dotnetCoreProjects\ProjectVCode1\bin\Debug\netcoreapp2.0\ProjectVCode1.deps.json
+D:\dotnetCoreProjects\ProjectVCode1\bin\Debug\netcoreapp2.0\ProjectVCode1.runtimeconfig.json
+D:\dotnetCoreProjects\ProjectVCode1\bin\Debug\netcoreapp2.0\ProjectVCode1.runtimeconfig.dev.json
+D:\dotnetCoreProjects\ProjectVCode1\bin\Debug\netcoreapp2.0\ProjectVCode1.dll
+D:\dotnetCoreProjects\ProjectVCode1\bin\Debug\netcoreapp2.0\ProjectVCode1.pdb
+D:\dotnetCoreProjects\ProjectVCode1\obj\Debug\netcoreapp2.0\ProjectVCode1.csproj.CoreCompileInputs.cache
+D:\dotnetCoreProjects\ProjectVCode1\obj\Debug\netcoreapp2.0\ProjectVCode1.AssemblyInfoInputs.cache
+D:\dotnetCoreProjects\ProjectVCode1\obj\Debug\netcoreapp2.0\ProjectVCode1.AssemblyInfo.cs
+D:\dotnetCoreProjects\ProjectVCode1\obj\Debug\netcoreapp2.0\ProjectVCode1.dll
+D:\dotnetCoreProjects\ProjectVCode1\obj\Debug\netcoreapp2.0\ProjectVCode1.pdb

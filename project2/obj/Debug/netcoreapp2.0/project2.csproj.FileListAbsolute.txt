@@ -1,0 +1,10 @@
+D:\dotnetCoreProjects\project2\bin\Debug\netcoreapp2.0\project2.deps.json
+D:\dotnetCoreProjects\project2\bin\Debug\netcoreapp2.0\project2.runtimeconfig.json
+D:\dotnetCoreProjects\project2\bin\Debug\netcoreapp2.0\project2.runtimeconfig.dev.json
+D:\dotnetCoreProjects\project2\bin\Debug\netcoreapp2.0\project2.dll
+D:\dotnetCoreProjects\project2\bin\Debug\netcoreapp2.0\project2.pdb
+D:\dotnetCoreProjects\project2\obj\Debug\netcoreapp2.0\project2.csproj.CoreCompileInputs.cache
+D:\dotnetCoreProjects\project2\obj\Debug\netcoreapp2.0\project2.AssemblyInfoInputs.cache
+D:\dotnetCoreProjects\project2\obj\Debug\netcoreapp2.0\project2.AssemblyInfo.cs
+D:\dotnetCoreProjects\project2\obj\Debug\netcoreapp2.0\project2.dll
+D:\dotnetCoreProjects\project2\obj\Debug\netcoreapp2.0\project2.pdb

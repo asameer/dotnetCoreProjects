@@ -1,0 +1,11 @@
+D:\dotnetCoreProjects\ConsoleTest\CheckLinksConsole\CheckLinksConsole\bin\Debug\netcoreapp2.0\CheckLinksConsole.deps.json
+D:\dotnetCoreProjects\ConsoleTest\CheckLinksConsole\CheckLinksConsole\bin\Debug\netcoreapp2.0\CheckLinksConsole.runtimeconfig.json
+D:\dotnetCoreProjects\ConsoleTest\CheckLinksConsole\CheckLinksConsole\bin\Debug\netcoreapp2.0\CheckLinksConsole.runtimeconfig.dev.json
+D:\dotnetCoreProjects\ConsoleTest\CheckLinksConsole\CheckLinksConsole\bin\Debug\netcoreapp2.0\CheckLinksConsole.dll
+D:\dotnetCoreProjects\ConsoleTest\CheckLinksConsole\CheckLinksConsole\bin\Debug\netcoreapp2.0\CheckLinksConsole.pdb
+D:\dotnetCoreProjects\ConsoleTest\CheckLinksConsole\CheckLinksConsole\obj\Debug\netcoreapp2.0\CheckLinksConsole.csprojResolveAssemblyReference.cache
+D:\dotnetCoreProjects\ConsoleTest\CheckLinksConsole\CheckLinksConsole\obj\Debug\netcoreapp2.0\CheckLinksConsole.csproj.CoreCompileInputs.cache
+D:\dotnetCoreProjects\ConsoleTest\CheckLinksConsole\CheckLinksConsole\obj\Debug\netcoreapp2.0\CheckLinksConsole.AssemblyInfoInputs.cache
+D:\dotnetCoreProjects\ConsoleTest\CheckLinksConsole\CheckLinksConsole\obj\Debug\netcoreapp2.0\CheckLinksConsole.AssemblyInfo.cs
+D:\dotnetCoreProjects\ConsoleTest\CheckLinksConsole\CheckLinksConsole\obj\Debug\netcoreapp2.0\CheckLinksConsole.dll
+D:\dotnetCoreProjects\ConsoleTest\CheckLinksConsole\CheckLinksConsole\obj\Debug\netcoreapp2.0\CheckLinksConsole.pdb

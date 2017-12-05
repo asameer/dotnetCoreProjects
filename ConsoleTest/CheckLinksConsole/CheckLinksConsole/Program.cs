@@ -14,6 +14,7 @@ namespace CheckLinksConsole
 
             Console.WriteLine(body.Result);
             Console.WriteLine();
+            Console.WriteLine();
             Console.WriteLine("Links");
             var links = LinkChecker.GetLinks(body.Result);
             links.ToList().ForEach(Console.WriteLine);
